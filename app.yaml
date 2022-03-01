@@ -1,0 +1,14 @@
+runtime: nodejs16
+
+instance_class: F2
+
+env_variables:
+  HOST: '0.0.0.0'
+  NODE_ENV: 'production'
+  DATABASE_NAME: 'strapi'
+  DATABASE_USER: 'postgres'
+  DATABASE_PASSWORD: 'DrgrbBnecBLmh07t'
+  INSTANCE_CONNECTION_NAME: 'omnizaarcms:us-west2:strapi'
+
+beta_settings:
+  cloud_sql_instances: 'omnizaarcms:us-west2:strapi'
