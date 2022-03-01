@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "learns",
+  "info": {
+    "singularName": "learn",
+    "pluralName": "learns",
+    "displayName": "Learn"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "body": {
+      "type": "richtext"
+    }
+  }
+}

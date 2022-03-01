@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "mints",
+  "info": {
+    "singularName": "mint",
+    "pluralName": "mints",
+    "displayName": "Mint"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "body": {
+      "type": "richtext"
+    }
+  }
+}
